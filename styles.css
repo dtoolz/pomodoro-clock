@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(216, 223, 240);
+}
+
+h2{
+     display: inline;
+}
+
+#start{
+    margin: 10px;
+}
+
+#time-div{
+    background-color: rgb(197, 148, 148);
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
+    padding: 20px;
+    height: auto;
+    margin-top: 10px;
+}
+
+#break-div{
+    background-color: rgb(233, 185, 209);
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
+    padding: 20px;
+    height: auto;
+    margin-top: 20px;
+}
+
